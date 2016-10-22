@@ -1,7 +1,7 @@
 Google Drive Uploader
 ===========
 
-Add create folder
+Add create folder test
 Add send email automatique
 
 Simple script to upload files on Google Drive.
